@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css"/>
+    <title>Shortest Path Using Dijkstra's Algorithm</title>
+</head>
+<body>
+    <header>
+        <div class="title">
+            <a href="index.html">Shortest Path Finder</a>
+            <a href="./instructions.html">
+                <img src="icon.png" alt="" />
+            </a>
+        </div>
+        <div class="options">
+            <div>
+                <button class="outline-btn" id="add-edge-enable" onclick="addEdges()">Add Edges</button>
+                <button class="outline-btn reset-btn" onclick="resetDrawingArea()" disabled> Clear</button>
+            </div>
+            <div>
+                <input type="text" , inputmode="numeric" , id="source-node" , placeholder="Source Node" />
+                <button class="outline-btn run-btn" onclick = "findShortestPath(this)" disabled> Run </button>
+            </div>
+        </div>
+    </header>
+    <div class="drawing-area">
+        <p class="click-instructions"> Click to Create Node</p>
+    </div>
+    <div class="path"></div>
+    <script src="./gsap.js"></script>
+    <script src="./script.js"></script>
+    <footer>
+        <p>Created/Developed By <span> Tanishk Jain</span></p>
+    </footer>
+</body>
+</html>
+
