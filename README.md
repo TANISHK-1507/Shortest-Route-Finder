@@ -65,17 +65,3 @@ The **Shortest Route Finder** is a web-based interactive tool that allows users 
 - Improve UI/UX with **advanced animations** and styles.
 - Implement **real-world applications** like traffic routing and logistics planning.
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to **fork** the repository and submit a pull request. 
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-🚀 **Happy Coding!**tra's Algorithm to compute and display the shortest path from a selected source node.
-- Editable Edge Weights: Change edge weights dynamically for different scenarios.
-- Visual shortest path highlighting: Highlights the shortest path on the graph.
-- Responsive design
