@@ -22,7 +22,7 @@ The **Shortest Route Finder** is a web-based interactive tool that allows users 
 ## 📸 Screenshots
 
 ### User Interface
-![Project UI]("./shortest route finder_UI.jpg")
+![Project UI]("./shortest_route_finder_UI.jpg")
 
 ### Shortest Path Visualization
 ![Path Finder](./shortest_route_finder_visualization.jpg)
