@@ -22,10 +22,10 @@ The **Shortest Route Finder** is a web-based interactive tool that allows users 
 ## 📸 Screenshots
 
 ### User Interface
-![Project UI]("C:\Users\HP\Downloads\shortest route finder.jpg")
+![Project UI]("./shortest route finder_UI.jpg")
 
 ### Shortest Path Visualization
-![Path Finder](./shortest%20route%20finder.jpg)
+![Path Finder](./shortest_route_finder_visualization.jpg)
 
 ## 🛠️ Technologies Used
 
