@@ -4,14 +4,6 @@ The Shortest Path Finder is a web-based project that visualizes the shortest pat
 
 ## 🚀 Features
 
-- Interactive node creation: Click anywhere on the drawing area to create nodes.
-- Dynamic edge addition: Add edges between nodes with automatically or manually assigned weights.
-- Shortest Path Calculation: Uses Dijkstra's Algorithm  📊 Shortest Route Finder
-
-The **Shortest Route Finder** is a web-based interactive tool that allows users to visualize and compute the shortest path between nodes using **Dijkstra's Algorithm**. This project provides an engaging way to understand graph theory and pathfinding algorithms.
-
-## 🚀 Features
-
 - **Interactive Node Creation**: Click anywhere on the drawing area to create nodes.
 - **Dynamic Edge Addition**: Add weighted edges between nodes, either manually or automatically.
 - **Shortest Path Calculation**: Implements **Dijkstra's Algorithm** to determine and display the shortest path from a selected source node.
