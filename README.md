@@ -58,10 +58,3 @@ The **Shortest Route Finder** is a web-based interactive tool that allows users 
    ```
 3. Open `index.html` in a web browser.
 
-## 🔥 Future Enhancements
-
-- Implement additional shortest path algorithms (A*, Bellman-Ford, Floyd-Warshall, etc.).
-- Add an **undo/redo** feature for better usability.
-- Improve UI/UX with **advanced animations** and styles.
-- Implement **real-world applications** like traffic routing and logistics planning.
-
